@@ -1,3 +1,3 @@
 # Airline-Management-System
 
-# MySQL Database Designed for Airline Management
+MySQL Database Designed for Airline Management
