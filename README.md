@@ -1,1 +1,3 @@
-# Flight-Management-System
+# Airline-Management-System
+
+# MySQL Database Designed for Airline Management
